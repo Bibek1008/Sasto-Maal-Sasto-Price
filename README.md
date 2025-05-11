@@ -6,12 +6,11 @@ A modern React-based e-commerce platform that brings quality products at afforda
 
 Sasto Maal Sasto Price is an e-commerce solution that aims to bridge the gap between quality products and affordable prices. The platform features:
 
-- 🛍️ Wide range of products at competitive prices
 - 🎨 Modern and intuitive user interface
 - 📱 Fully responsive design for all devices
 - ⚡ Fast and efficient shopping experience
 - 🔍 Easy product search and filtering
-- 🛒 Simple and secure checkout process
+
 
 ## Features
 
@@ -55,9 +54,11 @@ yarn install
 npm start
 # or
 yarn start
+#or
+npm run dev 
 ```
 
-The application will be available at `http://localhost:3000`
+The application will be available at `http://localhost:5174`
 
 ## Project Structure
 
